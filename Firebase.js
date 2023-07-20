@@ -16,7 +16,12 @@ import {
 // const USE_EMULATOR = true
 
 const firebaseConfig = {
-  
+  apiKey: '',
+  authDomain: 'around-vu-68b32.firebaseapp.com',
+  projectId: 'around-vu-68b32',
+  storageBucket: 'around-vu-68b32.appspot.com',
+  messagingSenderId: '92218944887',
+  appId: '1:92218944887:web:38ba922b958986059a8572',
 };
 
 // if (USE_EMULATOR == true) {
